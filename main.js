@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name         Synergia but better
-// @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Improves librus synergia because it's bad and stupid and shit
 // @author       adamski234#7707
